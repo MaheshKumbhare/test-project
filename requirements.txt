@@ -2,3 +2,5 @@ python3.10
 docker
 kuberntes
 jenkins
+ansible
+terraform
