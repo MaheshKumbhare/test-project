@@ -4,3 +4,4 @@ kuberntes
 jenkins
 ansible
 terraform
+aws

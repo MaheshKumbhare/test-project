@@ -1,0 +1,3 @@
+[submodule "logs/log"]
+	path = logs/log
+	url = https://github.com/MaheshKumbhare/project4.git
